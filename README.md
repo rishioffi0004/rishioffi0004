@@ -1,3 +1,11 @@
+## 👋 About Me
+
+Hi, I'm **Kunwar Rishi Raj Singh** — a passionate **Full Stack Developer** and **Problem Solver** from India 🇮🇳.
+
+- 🎓 Currently pursuing B.Tech at **GLA University, Mathura**
+- 💻 I love building scalable web  applications
+- 🧠 Practicing Data Structures and Algorithms regularly on [LeetCode](https://leetcode.com/rishi_09/)
+- 🛠️ Tech Stack: **Java, JavaScript, Node.js, MongoDB, MySQL, HTML5, CSS3, EJS**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunwarrishirajsingh04@gmail.com) 
