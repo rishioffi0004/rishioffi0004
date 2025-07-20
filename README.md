@@ -12,6 +12,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishioffi0004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🧠 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rishi_09?theme=dark&font=baloo&extension=null)](https://leetcode.com/rishi_09/)
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rishioffi0004&icon=0&color=0)](https://visitcount.itsvg.in)
 
